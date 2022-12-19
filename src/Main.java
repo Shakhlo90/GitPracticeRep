@@ -9,6 +9,6 @@ public class Main {
 ;
         sun.heat="2344555";
         sun.size=89999;
-    sun.Temperature=9909080979889;
+    sun.Temperature=6768;
     }
 }
